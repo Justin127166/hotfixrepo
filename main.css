@@ -23,3 +23,12 @@
     cursor: pointer;
     padding: .7rem;
 }
+
+div{
+    color: greenyellow;
+    font: italic
+}
+
+body{
+    background-color: salmon;
+}
